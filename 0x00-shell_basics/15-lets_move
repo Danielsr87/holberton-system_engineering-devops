@@ -1,2 +1,2 @@
 #!/bin/bash
-tr [:upper:] > tmp/u 
+tr '[:upper:]' '[:lower:]' > tmp/u 
