@@ -1,3 +1,2 @@
 #!/bin/bash
- tr -c '[:upper:]' > tmp/u
-
+ls -d /etc/*[[:upper:]]*
