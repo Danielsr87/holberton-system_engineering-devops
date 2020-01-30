@@ -1,3 +1,3 @@
 #!/bin/bash
-mv tr '[:upper:]' tmp/u
+ tr -c '[:upper:]' > tmp/u
 
